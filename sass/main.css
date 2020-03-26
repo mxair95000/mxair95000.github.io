@@ -2202,6 +2202,13 @@ input[type="radio"] + label:before {
     @media screen and (max-width: 736px) {
       .image.main {
         margin: 0 0 2em 0; } }
+  .image.insideimage {
+    display: block;
+    margin: 0 0 3em 0;
+    width: 100%; }
+    @media screen and (max-width: 736px) {
+      .image.insideimage {
+        margin: 0 0 2em 0; } }
 
 /* Table */
 .table-wrapper {
