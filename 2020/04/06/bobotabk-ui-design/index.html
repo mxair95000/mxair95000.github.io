@@ -127,26 +127,53 @@
 
 
 <!-- Content -->
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"<h2 id="（Intro示意圖）"><a href="#（Intro示意圖）" class="headerlink" title="（Intro示意圖）"></a>（Intro示意圖）</h2><ol>
-<li>人在玩遊戲示意圖</li>
-<li>把遊戲變成螢幕圖</li>
-<li>小組成員</li>
-<li>進行時間</li>
-</ol>
-<h1 id="遊戲配置"><a href="#遊戲配置" class="headerlink" title="遊戲配置"></a>遊戲配置</h1><h2 id="場地"><a href="#場地" class="headerlink" title="場地"></a>場地</h2><h2 id="硬體"><a href="#硬體" class="headerlink" title="硬體"></a>硬體</h2><ol>
-<li>遊戲進行方式地圖+比賽車輛零件</li>
-<li>遊戲進行方式說明</li>
-</ol>
-<h1 id="遊戲規則"><a href="#遊戲規則" class="headerlink" title="遊戲規則"></a>遊戲規則</h1><ol>
-<li>遊戲規則六張圖</li>
-<li>遊戲規則說明文案</li>
-</ol>
-<h1 id="介面流程"><a href="#介面流程" class="headerlink" title="介面流程"></a>介面流程</h1><h1 id="介面設計"><a href="#介面設計" class="headerlink" title="介面設計"></a>介面設計</h1><h2 id="遊戲畫面"><a href="#遊戲畫面" class="headerlink" title="遊戲畫面"></a>遊戲畫面</h2><h2 id="設定畫面"><a href="#設定畫面" class="headerlink" title="設定畫面"></a>設定畫面</h2><ol>
-<li>介面流程圖</li>
-<li>介面最終設計圖02</li>
-<li>介面最終設計圖03</li>
-</ol>
-</div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/css/lightgallery.min.css" /><div class=".article-gallery"<a href="/image/bobotank/BBTU_cover.png" class="gallery-item"><img id="pageTop" class= "image main" width="400" src="/image/bobotank/BBTU_cover.png"  ></a>
+
+<h2 id="設計簡介-Design-Brief"><a href="#設計簡介-Design-Brief" class="headerlink" title="設計簡介 Design Brief"></a>設計簡介 Design Brief</h2><p>Bobotank 異星坦克是款虛實結合的多人競技遊戲，兩隊共六位玩家透過操控坦克機器車，在十五分鐘時限內，以搖桿操控車輛在充滿機關的 6m X 4m 場地中移動，並以車載的雷射搶奪場地上的四座能量塔或射擊敵軍的主堡坦克，以此求得勝利</p>
+<p>遊玩時，玩家只能透過坦克車上的 FPV 攝影機視角看到遊戲畫面，不能直接看到實體賽場，以此增加困難度與挑戰性；而觀眾可以從場地上方或其他視角的攝影機轉播畫面中看到玩家們目前的狀態。</p>
+<h1 id="場地與硬體-Space-amp-Hardware"><a href="#場地與硬體-Space-amp-Hardware" class="headerlink" title="場地與硬體 Space &amp; Hardware"></a>場地與硬體 Space &amp; Hardware</h1><a href="/image/bobotank/BBTU_MAP.png" class="gallery-item"><img class= "image main" width="400" src="/image/bobotank/BBTU_MAP.png"  ></a>
+
+<p>場地為 5m x 7m 的實體地圖，設計左右對稱各為紅藍兩隊的陣地。有許多會移動的機關，如移動牆、旋轉牆、翹翹板等障礙物，四週的能量塔周圍都有擋牆，玩家可以善用地形和障礙物來閃躲敵人，跨過重重困難才能順利搶奪敵方的能量塔。</p>
+<a href="/image/bobotank/BBTU_6.png" class="gallery-item"><img class= "image main" width="400" src="/image/bobotank/BBTU_6.png"></a>
+
+<h1 id="遊戲規則-Game-Rules"><a href="#遊戲規則-Game-Rules" class="headerlink" title="遊戲規則 Game Rules"></a>遊戲規則 Game Rules</h1><a href="/image/bobotank/BBTU_rules.png" class="gallery-item"><img class= "image main" width="400" src="/image/bobotank/BBTU_rules.png"  ></a>
+
+
+<p>參賽者共六人，分為紅藍兩個隊伍，每隊其中一人擔任主堡坦克，其餘兩人擔任攻擊坦克。勝利方式為在 15 分鐘內佔領最多的能量塔，或將敵方的主堡坦克擊毀。若15分鐘時限已到尚未分出勝負，則會計算兩隊總剩餘血量，多者獲勝。</p>
+</br>
+</br>
+</br>
+
+<h1 id="介面流程"><a href="#介面流程" class="headerlink" title="介面流程"></a>介面流程</h1><a href="/image/bobotank/BBTU_UIflow.png" class="gallery-item"><img class= "image main" width="400" src="/image/bobotank/BBTU_UIflow.png"></a>
+
+<p>遊戲進行前會先輸入競賽者暱稱和隊伍等料，進入後會有三秒開始倒數，隨即開始遊戲。在遊戲中若遭遇被擊重、隊友遭擊殺、坦克被搶都會有相對應的畫面反應。遊戲結束後除了告知輸贏，也有計分版告知玩家和觀眾各隊各玩家的詳細成績和表現。</p>
+<h1 id="介面設計"><a href="#介面設計" class="headerlink" title="介面設計"></a>介面設計</h1><center>
+
+<div>
+<a href="/image/bobotank/BBTU_01.png" class="gallery-item"><img style="border:2px #ccc solid;padding:5px;margin:5px;" src="/image/bobotank/BBTU_01.png" width="300"/></a>
+
+
+<a href="/image/bobotank/BBTU_02.png" class="gallery-item"><img style="border:2px #ccc solid;padding:5px;margin:5px;" src="/image/bobotank/BBTU_02.png" width="300"/></a>
+
+<a href="/image/bobotank/BBTU_04.png" class="gallery-item"><img width="300" style="border:2px #ccc solid;padding:5px;margin:5px;" src="/image/bobotank/BBTU_04.png"/></a>
+
+</div>
+<div style="color:orange; border-bottom: 1px solid #d9d9d9;display: inline-block;color: #999;padding: 2px;">介面設計</div>
+
+</center>
+
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<h3 id="↑-返回頁首｜-▦-查看其他作品"><a href="#↑-返回頁首｜-▦-查看其他作品" class="headerlink" title=" ↑ 返回頁首｜ ▦ 查看其他作品"></a><a href="#pageTop"> ↑ 返回頁首</a>｜<a href="http://chiahsuhuang.com/" target="_blank" rel="noopener"> ▦ 查看其他作品</a></h3></div><script src="https://cdn.jsdelivr.net/lightgallery.js/1.0.1/js/lightgallery.min.js"></script><script>if (typeof lightGallery !== 'undefined') {
         var options = {
             selector: '.gallery-item'
         };
