@@ -60,7 +60,9 @@
     <![endif]-->
 
     <!-- Gallery -->
-    <link href="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/galleria.min.js"></script>
+    
 
     <!-- Google Analytics -->
     
@@ -68,7 +70,20 @@
 
 <meta name="generator" content="Hexo 4.2.0"></head>
 
+<script>
+    (function() {
+        Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');
+        Galleria.run('.galleria');
+    }());
+</script>
+
 <body>
+    <script>
+        (function() {
+            Galleria.loadTheme('https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/themes/classic/galleria.classic.min.js');
+            Galleria.run('.galleria');
+        }());
+    </script>
 
     <div id="wrapper">
 
@@ -272,9 +287,13 @@
 
 
 <!-- Gallery -->
-<script src="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="//code.jquery.com/jquery-latest.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/galleria/1.5.7/galleria.min.js"></script>
+
 
 <!-- Disqus Comments -->
+
 
 
 </body>
