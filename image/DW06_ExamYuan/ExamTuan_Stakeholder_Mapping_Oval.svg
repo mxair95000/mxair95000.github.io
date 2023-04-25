@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="2.6817895 494.5 1440.302 751.0955" width="1440.302" height="751.0955">
+  <defs>
+    <filter id="Shadow" filterUnits="userSpaceOnUse" x="-141.34841" y="419.39045">
+      <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation=".872"/>
+      <feOffset in="blur" result="offset" dx="0" dy="2"/>
+      <feFlood flood-color="black" flood-opacity="0" result="flood"/>
+      <feComposite in="flood" in2="offset" operator="in" result="color"/>
+      <feMerge>
+        <feMergeNode in="color"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Stakeholder_V4" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" fill="none" stroke="none">
+    <title>Stakeholder_V4</title>
+    <g id="Stakeholder_V4_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_165" filter="url(#Shadow)">
+        <path d="M 372.9979 498.3393 L 1072.6677 498.3393 C 1275.807 498.3393 1440.4838 663.0162 1440.4838 866.1554 L 1440.4838 866.1554 C 1440.4838 1069.2946 1275.807 1233.9715 1072.6677 1233.9715 L 372.9979 1233.9715 C 169.85866 1233.9715 5.1817895 1069.2946 5.1817895 866.1554 L 5.1817895 866.1554 C 5.1817895 663.0162 169.85866 498.3393 372.9979 498.3393 Z" stroke="#00b995" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_8" filter="url(#Shadow)">
+        <path d="M 446.8444 567.3678 L 1002.8212 567.3678 C 1164.2412 567.3678 1295.098 698.2246 1295.098 859.6445 L 1295.098 859.6445 C 1295.098 1021.0645 1164.2412 1151.9213 1002.8212 1151.9213 L 446.8444 1151.9213 C 285.42443 1151.9213 154.56768 1021.0645 154.56768 859.6445 L 154.56768 859.6445 C 154.56768 698.2246 285.42443 567.3678 446.8444 567.3678 Z" fill="#00b596" fill-opacity=".21241267"/>
+        <path d="M 446.8444 567.3678 L 1002.8212 567.3678 C 1164.2412 567.3678 1295.098 698.2246 1295.098 859.6445 L 1295.098 859.6445 C 1295.098 1021.0645 1164.2412 1151.9213 1002.8212 1151.9213 L 446.8444 1151.9213 C 285.42443 1151.9213 154.56768 1021.0645 154.56768 859.6445 L 154.56768 859.6445 C 154.56768 698.2246 285.42443 567.3678 446.8444 567.3678 Z" stroke="#00b995" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_10">
+        <path d="M 441.1643 662.6335 L 1004.5013 662.6335 C 1113.3075 662.6335 1201.5123 750.8384 1201.5123 859.6445 L 1201.5123 859.6445 C 1201.5123 968.4507 1113.3075 1056.6555 1004.5013 1056.6555 L 441.1643 1056.6555 C 332.35814 1056.6555 244.1533 968.4507 244.1533 859.6445 L 244.1533 859.6445 C 244.1533 750.8384 332.35814 662.6335 441.1643 662.6335 Z" fill="#00b596" fill-opacity=".28232392"/>
+        <path d="M 441.1643 662.6335 L 1004.5013 662.6335 C 1113.3075 662.6335 1201.5123 750.8384 1201.5123 859.6445 L 1201.5123 859.6445 C 1201.5123 968.4507 1113.3075 1056.6555 1004.5013 1056.6555 L 441.1643 1056.6555 C 332.35814 1056.6555 244.1533 968.4507 244.1533 859.6445 L 244.1533 859.6445 C 244.1533 750.8384 332.35814 662.6335 441.1643 662.6335 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_71">
+        <path d="M 466.59684 746.4362 L 983.0688 746.4362 C 1045.2543 746.4362 1095.6656 796.8475 1095.6656 859.0331 L 1095.6656 859.0331 C 1095.6656 921.2186 1045.2543 971.6299 983.0688 971.6299 L 466.59684 971.6299 C 404.4113 971.6299 354 921.2186 354 859.0331 L 354 859.0331 C 354 796.8475 404.4113 746.4362 466.59684 746.4362 Z" fill="#00b596" fill-opacity=".718762"/>
+        <path d="M 466.59684 746.4362 L 983.0688 746.4362 C 1045.2543 746.4362 1095.6656 796.8475 1095.6656 859.0331 L 1095.6656 859.0331 C 1095.6656 921.2186 1045.2543 971.6299 983.0688 971.6299 L 466.59684 971.6299 C 404.4113 971.6299 354 921.2186 354 859.0331 L 354 859.0331 C 354 796.8475 404.4113 746.4362 466.59684 746.4362 Z" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_75">
+        <circle cx="282.11613" cy="1168.1161" r="29.1161761024748" fill="#333"/>
+        <text transform="translate(263.82323 1160.1161)" fill="white">
+          <tspan font-family="PingFang TC" font-size="6" fill="white" x=".5569039" y="6">Architectural </tspan>
+          <tspan font-family="PingFang TC" font-size="6" fill="white" x="12.133904" y="14">Firm</tspan>
+        </text>
+      </g>
+      <g id="Graphic_87">
+        <circle cx="320.47234" cy="938.2576" r="33.5277179361832" fill="#333"/>
+        <text transform="translate(298.6502 932.7576)" fill="white">
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x="9.238132" y="8">CPAMI</tspan>
+        </text>
+      </g>
+      <g id="Graphic_88">
+        <circle cx="299.11613" cy="1048.1161" r="29.1161761024749" fill="#333"/>
+        <text transform="translate(280.82323 1037.1161)" fill="white">
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x="1.5209039" y="8">Architect </tspan>
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x="6.036904" y="19">Assoc. </tspan>
+        </text>
+      </g>
+      <g id="Graphic_122">
+        <circle cx="492.0611" cy="859.6445" r="102.590731218213" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text fill="white">
+          <path d="M 415.82154 790.9981 C 453.7339 748.892 518.60154 745.4924 560.7075 783.405 C 602.8137 821.3173 606.21326 886.185 568.3007 928.291 C 530.3883 970.3971 465.52067 973.7967 423.4147 935.8841 C 381.30853 897.9717 377.90896 833.1041 415.82154 790.9981" id="TextPath1"/>
+          <textPath xl:href="#TextPath1" pathLength="648.847772528008">
+            <tspan font-family="PingFang TC" font-size="12" fill="white" x="0" y="0">Others</tspan>
+          </textPath>
+        </text>
+      </g>
+      <g id="Graphic_121">
+        <circle cx="452.88114" cy="896.1713" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(431.03255 890.0313)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="1.938587" y="10">Architect</tspan>
+        </text>
+      </g>
+      <g id="Graphic_120">
+        <circle cx="452.88114" cy="821.5308" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(431.03255 807.1948)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="white" x="10.292587" y="11">Tour </tspan>
+          <tspan font-family="Helvetica Neue" font-size="12" fill="white" x="5.846587" y="25.336">Guide</tspan>
+        </text>
+      </g>
+      <g id="Graphic_119">
+        <circle cx="541.0603" cy="821.5308" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(519.21174 814.3628)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="12" fill="white" x="2.522587" y="11">Lawyer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_118">
+        <circle cx="722.8328" cy="858.851" r="102.590731218213" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text fill="white">
+          <path d="M 655.5274 781.425 C 698.2886 744.2531 763.0871 748.7842 800.2588 791.5456 C 837.4308 834.3069 832.8996 899.1053 790.1382 936.277 C 747.377 973.449 682.57855 968.9178 645.4068 926.1564 C 608.23484 883.3952 612.766 818.5968 655.5274 781.425" id="TextPath2"/>
+          <textPath xl:href="#TextPath2" pathLength="648.847772528008">
+            <tspan font-family="PingFang TC" font-size="11" fill="white" x="0" y="0">Medical </tspan>
+          </textPath>
+        </text>
+      </g>
+      <g id="Graphic_117">
+        <circle cx="765.3207" cy="814.0376" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(743.47215 807.8976)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="6.663587" y="10">Doctor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_116">
+        <circle cx="697.7808" cy="799.0339" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(675.9322 792.8939)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="8.608587" y="10">Nurse</tspan>
+        </text>
+      </g>
+      <g id="Graphic_115">
+        <circle cx="716.4002" cy="922.3947" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(694.5516 910.1147)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="8.148587" y="10">Social </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="6.023587" y="22.28">Worker</tspan>
+        </text>
+      </g>
+      <g id="Graphic_114">
+        <circle cx="662.7367" cy="866.1554" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(640.8881 855.9314)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="1.332587" y="8">Respiratory </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="5.180587" y="18.224">Therapist</tspan>
+        </text>
+      </g>
+      <g id="Graphic_113">
+        <circle cx="784.4131" cy="888.881" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(762.5645 878.657)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="6.960587" y="8">Physical </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="6.216587" y="18.224">therapist</tspan>
+        </text>
+      </g>
+      <g id="Graphic_112">
+        <circle cx="958.5376" cy="859.0331" r="102.590731218213" stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text fill="white">
+          <path d="M 878.8098 794.4708 C 914.4665 750.43815 979.0674 743.6483 1023.0998 779.3053 C 1067.1325 814.962 1073.9223 879.5629 1038.2653 923.5953 C 1002.6086 967.628 938.0077 974.4178 893.9753 938.7608 C 849.9426 903.1041 843.1528 838.5033 878.8098 794.4708" id="TextPath3"/>
+          <textPath xl:href="#TextPath3" pathLength="648.847772528008">
+            <tspan font-family="PingFang TC" font-size="11" fill="white" x="0" y="0">Civil Servent</tspan>
+          </textPath>
+        </text>
+      </g>
+      <g id="Graphic_111">
+        <circle cx="919.0253" cy="821.5308" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(897.1767 803.1108)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="9.718587" y="10">Local</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="12.408587" y="22.28">Civil</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="4.718587" y="34.559998">Servent</tspan>
+        </text>
+      </g>
+      <g id="Graphic_110">
+        <circle cx="949.3105" cy="903.4934" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(927.4619 895.8114)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="13" fill="white" x="4.038587" y="12">Police</tspan>
+        </text>
+      </g>
+      <g id="Graphic_126">
+        <circle cx="660.7502" cy="705.6805" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(638.9016 692.5405)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="8.608587" y="10">Nurse </tspan>
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="6.528587" y="23.28">Assoc.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_127">
+        <circle cx="733.6892" cy="533.8071" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(711.8406 521.5271)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="3.423587" y="10">Hospital</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="4.903587" y="22.28">&amp; Clinic</tspan>
+        </text>
+      </g>
+      <g id="Line_129">
+        <line x1="682.5881" y1="680.1945" x2="710.1705" y2="648.0044" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_130">
+        <line x1="420.89056" y1="906.3395" x2="361.86626" y2="925.1005" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_138">
+        <circle cx="334.11613" cy="809.593" r="29.1161761024749" fill="#333"/>
+        <text transform="translate(315.82323 795.593)" fill="white">
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="4.767904" y="11">Guide </tspan>
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="2.972904" y="25">Assoc. </tspan>
+        </text>
+      </g>
+      <g id="Line_140">
+        <line x1="419.48765" y1="818.1742" x2="372.93753" y2="813.4952" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_142">
+        <circle cx="919.3006" cy="705.6805" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(897.452 700.0545)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="9" fill="white" x="6.935587" y="9">CSPTC</tspan>
+        </text>
+      </g>
+      <g id="Graphic_143">
+        <circle cx="975.0607" cy="528.06073" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(953.2121 509.64074)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="9.718587" y="10">Local </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="11.663587" y="22.28">Gov.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="9.813587" y="34.559998">Setor</tspan>
+        </text>
+      </g>
+      <g id="Line_145">
+        <line x1="919.1051" y1="787.9701" x2="919.1973" y2="749.1411" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_147">
+        <line x1="929.3547" y1="673.654" x2="962.0414" y2="569.5328" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_158">
+        <path d="M 755.7977 1043.6215 L 1000.2023 1043.6215 C 1007.8225 1043.6215 1014 1049.7989 1014 1057.4192 L 1014 1057.4192 C 1014 1065.0395 1007.8225 1071.2169 1000.2023 1071.2169 L 755.7977 1071.2169 C 748.1775 1071.2169 742 1065.0395 742 1057.4192 L 742 1057.4192 C 742 1049.7989 748.1775 1043.6215 755.7977 1043.6215 Z" fill="white"/>
+        <text transform="translate(747 1049.2232)" fill="#515151">
+          <tspan font-family="Helvetica Neue" font-size="14" fill="#515151" x="18.734" y="13">Profession Assoc. / Training Agency</tspan>
+        </text>
+      </g>
+      <g id="Graphic_159">
+        <path d="M 800.7977 960 L 907.9978 960 C 915.6181 960 921.7956 966.1775 921.7956 973.7977 L 921.7956 973.7977 C 921.7956 981.418 915.6181 987.5955 907.9978 987.5955 L 800.7977 987.5955 C 793.1775 987.5955 787 981.418 787 973.7977 L 787 973.7977 C 787 966.1775 793.1775 960 800.7977 960 Z" fill="white"/>
+        <text transform="translate(792 965.6017)" fill="#515151">
+          <tspan font-family="Helvetica Neue" font-size="14" fill="#515151" x="31.80079" y="13">Examinee</tspan>
+        </text>
+      </g>
+      <g id="Graphic_166">
+        <path d="M 840.7679 1137 L 1018.3536 1137 C 1025.9738 1137 1032.1513 1143.1775 1032.1513 1150.7977 L 1032.1513 1150.7977 C 1032.1513 1158.418 1025.9738 1164.5955 1018.3536 1164.5955 L 840.7679 1164.5955 C 833.1476 1164.5955 826.9702 1158.418 826.9702 1150.7977 L 826.9702 1150.7977 C 826.9702 1143.1775 833.1476 1137 840.7679 1137 Z" fill="white"/>
+        <text transform="translate(831.9702 1142.6017)" fill="#515151">
+          <tspan font-family="Helvetica Neue" font-size="14" fill="#515151" x="13.597569" y="13">Practice Registration Setor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_168">
+        <circle cx="348.41216" cy="745.1161" r="29.1161761024748" fill="#333"/>
+        <text transform="translate(330.11925 725.6161)" fill="white">
+          <tspan font-family="PingFang TC" font-size="9" fill="white" x="9.733904" y="10">Law </tspan>
+          <tspan font-family="PingFang TC" font-size="9" fill="white" x="9.054404" y="23">Firm</tspan>
+          <tspan font-family="PingFang TC" font-size="9" fill="white" x="3.460904" y="36">(Intern)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_170">
+        <circle cx="463.509" cy="696.1161" r="29.1161761024748" fill="#333"/>
+        <text transform="translate(445.2161 682.1161)" fill="white">
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="10.287904" y="11">Bar </tspan>
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="2.972904" y="25">Assoc.</tspan>
+        </text>
+      </g>
+      <g id="Line_171">
+        <line x1="523.4057" y1="792.98" x2="484.03227" y2="729.306" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_175">
+        <circle cx="541.0603" cy="896.1713" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(519.21174 883.8633)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="11" fill="white" x="11.464587" y="10">Civil </tspan>
+          <tspan font-family="Helvetica Neue" font-size="11" fill="white" x=".25558704" y="22.307999">Engineer</tspan>
+        </text>
+      </g>
+      <g id="Graphic_176">
+        <circle cx="519.6161" cy="534.6161" r="29.1161761024749" fill="#333"/>
+        <text transform="translate(501.3232 518.6161)" fill="white">
+          <tspan font-family="PingFang TC" font-size="11" fill="white" x="7.831904" y="12">Law </tspan>
+          <tspan font-family="PingFang TC" font-size="11" fill="white" x="7.001404" y="28">Firm</tspan>
+        </text>
+      </g>
+      <g id="Graphic_179">
+        <circle cx="149.11613" cy="710.61756" r="29.1161761024748" fill="#333"/>
+        <text transform="translate(130.82323 696.61756)" fill="white">
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="4.217904" y="11">Travel </tspan>
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="4.707904" y="25">Agent</tspan>
+        </text>
+      </g>
+      <g id="Line_180">
+        <line x1="308.43646" y1="795.8543" x2="183.52503" y2="729.0264" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_181">
+        <circle cx="697.7808" cy="1017.5607" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(675.9322 998.2807)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="8.148587" y="10">Social </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="6.023587" y="22.28">Worker</tspan>
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="6.528587" y="35.559998">Assoc.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_182">
+        <circle cx="744.81275" cy="705.6805" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(722.9642 692.5405)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="4.253587" y="10">Medical </tspan>
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="6.528587" y="23.28">Assoc.</tspan>
+        </text>
+      </g>
+      <g id="Line_183">
+        <line x1="709.9555" y1="955.3343" x2="706.1264" y2="974.9053" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_184">
+        <line x1="685.4031" y1="767.8299" x2="676.7783" y2="746.08695" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_185">
+        <line x1="759.0791" y1="781.0591" x2="752.8954" y2="748.38635" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_191">
+        <circle cx="658.0277" cy="1192.9817" r="33.5277179361832" fill="#333"/>
+        <text transform="translate(636.2055 1176.4817)" fill="white">
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x="10.562132" y="8">Social </tspan>
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x="7.534132" y="19">Welfare </tspan>
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x="12.886132" y="30">NGO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_190">
+        <circle cx="733.7223" cy="1192.9817" r="33.5277179361832" fill="#333"/>
+        <text transform="translate(711.9001 1171.9817)" fill="white">
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="7.747132" y="11">Social </tspan>
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="3.962132" y="25">Welfare </tspan>
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="6.622132" y="39">Sector</tspan>
+        </text>
+      </g>
+      <g id="Graphic_192">
+        <circle cx="680.0607" cy="1107.51" r="33.5607878726186" fill="#333"/>
+        <text transform="translate(658.21215 1082.95)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="9.718587" y="10">Local </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="1.378587" y="22.28">Govment</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="2.308587" y="34.559998">Deprt. of </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="7.403587" y="46.839996">Health</tspan>
+        </text>
+      </g>
+      <g id="Line_193">
+        <line x1="691.2933" y1="1050.492" x2="688.46175" y2="1064.8655" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_194">
+        <line x1="671.6819" y1="1140.0135" x2="668.8695" y2="1150.9237" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_195">
+        <line x1="697.9096" y1="1135.9395" x2="710.627" y2="1156.1957" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_196">
+        <circle cx="583.3107" cy="1193.0148" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(561.46215 1186.8748)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="3.423587" y="10">Hospital</tspan>
+        </text>
+      </g>
+      <g id="Line_197">
+        <line x1="654.9125" y1="1129.7353" x2="615.87714" y2="1164.2336" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_198">
+        <circle cx="820.5607" cy="705.6805" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(798.7121 688.4565)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="6.960587" y="8">Physical </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="6.216587" y="18.224">therapist</tspan>
+          <tspan font-family="PingFang TC" font-size="10" fill="white" x="7.848587" y="31.447998">Assoc</tspan>
+        </text>
+      </g>
+      <g id="Graphic_200">
+        <circle cx="738.4499" cy="615.0007" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(716.60136 590.4407)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="9.718587" y="10">Local </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="1.378587" y="22.28">Govment</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="2.308587" y="34.559998">Deprt. of </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="7.403587" y="46.839996">Health</tspan>
+        </text>
+      </g>
+      <g id="Line_201">
+        <line x1="742.4636" y1="672.2016" x2="741.49204" y2="658.3553" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_202">
+        <line x1="798.0338" y1="680.8027" x2="767.6219" y2="647.217" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_204">
+        <line x1="790.9105" y1="855.9517" x2="812.14695" y2="748.3226" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_205">
+        <line x1="736.4855" y1="581.4971" x2="736.23315" y2="577.1937" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_206">
+        <circle cx="583.0505" cy="706.17295" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(561.2019 690.44895)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="1.332587" y="8">Respiratory </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="5.180587" y="18.224">Therapist</tspan>
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x="9.592587" y="28.447998">Assoc.</tspan>
+        </text>
+      </g>
+      <g id="Line_207">
+        <line x1="647.7697" y1="836.1067" x2="602.4314" y2="745.0832" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_208">
+        <line x1="612.0041" y1="689.186" x2="700.9574" y2="636.9974" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_209">
+        <line x1="508.091" y1="902.4615" x2="363.13376" y2="930.1182" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_210">
+        <circle cx="457.32574" cy="1107.51" r="29.1161761024749" fill="#333"/>
+        <text transform="translate(439.03284 1091.01)" fill="white">
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x="10.464904" y="8">Civil </tspan>
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x="1.984904" y="19">Engineer</tspan>
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x="6.036904" y="30">Assoc. </tspan>
+        </text>
+      </g>
+      <g id="Line_211">
+        <line x1="528.69503" y1="927.3802" x2="471.7001" y2="1071.2304" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_213">
+        <circle cx="1075.5607" cy="539.06073" r="33.5607878726183" fill="#333"/>
+        <text transform="translate(1053.7121 520.64074)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="5.738587" y="10">Central </tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="11.663587" y="22.28">Gov.</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="7.128587" y="34.559998">Sector</tspan>
+        </text>
+      </g>
+      <g id="Graphic_214">
+        <circle cx="1002.5067" cy="829.0607" r="33.5607878726183" fill="#333"/>
+        <text transform="translate(980.6581 804.5007)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="8.048587" y="10">Junior</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="5.833587" y="22.28">/Senior</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="12.408587" y="34.559998">Civil</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="white" x="4.718587" y="46.839996">Servent</tspan>
+        </text>
+      </g>
+      <g id="Line_217">
+        <line x1="983.7386" y1="801.2309" x2="943.604" y2="741.7183" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_218">
+        <line x1="1010.7061" y1="796.5118" x2="1064.943" y2="581.2098" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_237">
+        <path d="M 973.2159 1218 L 1051.916 1218 C 1059.5363 1218 1065.7138 1224.1775 1065.7138 1231.7977 L 1065.7138 1231.7977 C 1065.7138 1239.418 1059.5363 1245.5955 1051.916 1245.5955 L 973.2159 1245.5955 C 965.5957 1245.5955 959.4182 1239.418 959.4182 1231.7977 L 959.4182 1231.7977 C 959.4182 1224.1775 965.5957 1218 973.2159 1218 Z" fill="white"/>
+        <text transform="translate(964.4182 1223.6017)" fill="#515151">
+          <tspan font-family="Helvetica Neue" font-size="14" fill="#515151" x="18.58679" y="13">Employer</tspan>
+        </text>
+      </g>
+      <g id="Line_239">
+        <line x1="999.4591" y1="795.6378" x2="979.0073" y2="571.3428" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_240">
+        <line x1="944.2763" y1="870.3102" x2="925.8197" y2="748.6518" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_244">
+        <circle cx="1357.5607" cy="835.5607" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(1335.7121 815.1127)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="11.256587" y="8">Coast </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="10.808587" y="18.224">Guard </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x=".58458704" y="28.447998">Administrati</tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="17.328587" y="38.671997">on</tspan>
+        </text>
+      </g>
+      <g id="Graphic_245">
+        <circle cx="1353.5607" cy="917.6857" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(1331.7121 902.3497)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="7.628587" y="8">Central/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x=".07258704" y="18.224">Local Police </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="8.440587" y="28.447998">Agency</tspan>
+        </text>
+      </g>
+      <g id="Graphic_246">
+        <circle cx="1335.5607" cy="999.8107" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(1313.7121 979.3627)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="7.628587" y="8">Central/</tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="12.144587" y="18.224">Local </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="15.256587" y="28.447998">Fire </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x=".728587" y="38.671997">Department</tspan>
+        </text>
+      </g>
+      <g id="Line_247">
+        <line x1="982.4186" y1="897.9842" x2="1314.6869" y2="842.6949" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_248">
+        <line x1="982.8507" y1="904.6709" x2="1310.1266" y2="916.1609" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_249">
+        <line x1="981.879" y1="911.6149" x2="1293.3864" y2="989.2939" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_251">
+        <circle cx="1140.2698" cy="821.4493" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(1118.4212 806.1133)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="8.960587" y="8">Central </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="10.888587" y="18.224">Police </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="4.220587" y="28.447998">University</tspan>
+        </text>
+      </g>
+      <g id="Graphic_250">
+        <circle cx="1049.0607" cy="999.8107" r="33.5607878726184" fill="#333"/>
+        <text transform="translate(1027.2121 984.4747)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="9.556587" y="8">Taiwan </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="10.888587" y="18.224">Police </tspan>
+          <tspan font-family="Helvetica Neue" font-size="8" fill="white" x="8.296587" y="28.447998">College</tspan>
+        </text>
+      </g>
+      <g id="Line_252">
+        <line x1="980.154" y1="890.2418" x2="1100.3304" y2="838.6089" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_253">
+        <line x1="973.4534" y1="926.8054" x2="1017.796" y2="969.622" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_254">
+        <circle cx="508.56073" cy="1193.0148" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(486.71215 1176.1368)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="9" fill="white" x="10.594087" y="9">Other</tspan>
+          <tspan font-family="Helvetica Neue" font-size="9" fill="white" x="7.934587" y="20.252">Private </tspan>
+          <tspan font-family="Helvetica Neue" font-size="9" fill="white" x="1.432087" y="31.503998">Enterprise</tspan>
+        </text>
+      </g>
+      <g id="Line_255">
+        <line x1="650.0178" y1="1122.4885" x2="547.4636" y2="1173.619" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_257">
+        <circle cx="600.0607" cy="534.6161" r="33.5607878726185" fill="#333"/>
+        <text transform="translate(578.21215 517.73813)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="9" fill="white" x="10.594087" y="9">Other</tspan>
+          <tspan font-family="Helvetica Neue" font-size="9" fill="white" x="7.934587" y="20.252">Private </tspan>
+          <tspan font-family="Helvetica Neue" font-size="9" fill="white" x="1.432087" y="31.503998">Enterprise</tspan>
+        </text>
+      </g>
+      <g id="Line_259">
+        <line x1="547.821" y1="788.6542" x2="591.306" y2="577.18976" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_260">
+        <line x1="538.5589" y1="788.0628" x2="522.52415" y2="573.52425" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_261">
+        <circle cx="399.11613" cy="704.95" r="29.1161761024749" fill="#333"/>
+        <text transform="translate(380.82323 685.45)" fill="white">
+          <tspan font-family="PingFang TC" font-size="9" fill="white" x="1.759904" y="10">Ministry </tspan>
+          <tspan font-family="PingFang TC" font-size="9" fill="white" x="13.977404" y="23">of </tspan>
+          <tspan font-family="PingFang TC" font-size="9" fill="white" x="3.465404" y="36">Justice</tspan>
+        </text>
+      </g>
+      <g id="Line_263">
+        <line x1="509.85615" y1="809.1535" x2="384.6863" y2="759.5044" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_264">
+        <line x1="515.12377" y1="800.2287" x2="429.2682" y2="729.7143" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_265">
+        <circle cx="349.11613" cy="1185.1161" r="29.1161761024749" fill="#333"/>
+        <text transform="translate(330.82323 1172.1161)" fill="white">
+          <tspan font-family="PingFang TC" font-size="9" fill="white" x="3.829904" y="10">Private </tspan>
+          <tspan font-family="PingFang TC" font-size="9" fill="white" x="1.0759039" y="23">Practice</tspan>
+        </text>
+      </g>
+      <g id="Graphic_266">
+        <circle cx="183.6838" cy="640.6161" r="29.1161761024748" fill="#333"/>
+        <text transform="translate(165.3909 629.6161)" fill="white">
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x="8.692904" y="8">Self-</tspan>
+          <tspan font-family="PingFang TC" font-size="8" fill="white" x=".1489039" y="19">Employed</tspan>
+        </text>
+      </g>
+      <g id="Line_267">
+        <line x1="314.7553" y1="787.84545" x2="209.62748" y2="669.758" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_268">
+        <circle cx="448.43653" cy="533.8071" r="29.1161761024749" fill="#333"/>
+        <text transform="translate(430.14363 520.8071)" fill="white">
+          <tspan font-family="PingFang TC" font-size="9" fill="white" x="3.829904" y="10">Private </tspan>
+          <tspan font-family="PingFang TC" font-size="9" fill="white" x="1.0759039" y="23">Practice</tspan>
+        </text>
+      </g>
+      <g id="Line_270">
+        <line x1="530.77406" y1="789.5778" x2="460.3942" y2="570.9521" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_271">
+        <line x1="441.5355" y1="927.7645" x2="362.30526" y2="1148.3896" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_272">
+        <line x1="522.48654" y1="924.1315" x2="370.70808" y2="1152.6125" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_273">
+        <line x1="517.91726" y1="920.4762" x2="309.02113" y2="1139.8603" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_274">
+        <line x1="429.00927" y1="919.7606" x2="326.86845" y2="1020.6923" marker-end="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-2418.5 316.5 3529 2367" width="3529" height="2367">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#666">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Ball_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-7 -4 8 8" markerWidth="8" markerHeight="8" color="#666">
+      <g>
+        <circle cx="-2.9999986" cy="0" r="2.99999734868332" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#a5a5a5">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="Ball_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-5 -3 6 6" markerWidth="6" markerHeight="6" color="#a5a5a5">
+      <g>
+        <circle cx="-1.7999992" cy="0" r="1.79999840920999" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Exam_IA_Before_EN" fill="none" stroke-dasharray="none" fill-opacity="1" stroke="none" stroke-opacity="1">
+    <title>Exam_IA_Before_EN</title>
+    <g id="Exam_IA_Before_EN_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_271">
+        <rect x="-2418" y="317" width="3528" height="2366" fill="white"/>
+        <rect x="-2418" y="317" width="3528" height="2366" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_269">
+        <path d="M -1928 1676 L -1052.5 1676 C -1041.4543 1676 -1032.5 1684.9543 -1032.5 1696 L -1032.5 2448 C -1032.5 2459.0457 -1041.4543 2468 -1052.5 2468 L -1928 2468 C -1939.0457 2468 -1948 2459.0457 -1948 2448 L -1948 1696 C -1948 1684.9543 -1939.0457 1676 -1928 1676 Z" fill="white"/>
+        <path d="M -1928 1676 L -1052.5 1676 C -1041.4543 1676 -1032.5 1684.9543 -1032.5 1696 L -1032.5 2448 C -1032.5 2459.0457 -1041.4543 2468 -1052.5 2468 L -1928 2468 C -1939.0457 2468 -1948 2459.0457 -1948 2448 L -1948 1696 C -1948 1684.9543 -1939.0457 1676 -1928 1676 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_159">
+        <path d="M 470 1001 L 749 1001 C 754.52285 1001 759 1005.4772 759 1011 L 759 1082.25 C 759 1087.7728 754.52285 1092.25 749 1092.25 L 470 1092.25 C 464.47715 1092.25 460 1087.7728 460 1082.25 L 460 1011 C 460 1005.4772 464.47715 1001 470 1001 Z" fill="white"/>
+        <path d="M 470 1001 L 749 1001 C 754.52285 1001 759 1005.4772 759 1011 L 759 1082.25 C 759 1087.7728 754.52285 1092.25 749 1092.25 L 470 1092.25 C 464.47715 1092.25 460 1087.7728 460 1082.25 L 460 1011 C 460 1005.4772 464.47715 1001 470 1001 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_160">
+        <path d="M 470 1106.25 L 749 1106.25 C 754.52285 1106.25 759 1110.7272 759 1116.25 L 759 1189 C 759 1194.5228 754.52285 1199 749 1199 L 470 1199 C 464.47715 1199 460 1194.5228 460 1189 L 460 1116.25 C 460 1110.7272 464.47715 1106.25 470 1106.25 Z" fill="white"/>
+        <path d="M 470 1106.25 L 749 1106.25 C 754.52285 1106.25 759 1110.7272 759 1116.25 L 759 1189 C 759 1194.5228 754.52285 1199 749 1199 L 470 1199 C 464.47715 1199 460 1194.5228 460 1189 L 460 1116.25 C 460 1110.7272 464.47715 1106.25 470 1106.25 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_161">
+        <path d="M 470 1425 L 749 1425 C 754.52285 1425 759 1429.4772 759 1435 L 759 1507.75 C 759 1513.2728 754.52285 1517.75 749 1517.75 L 470 1517.75 C 464.47715 1517.75 460 1513.2728 460 1507.75 L 460 1435 C 460 1429.4772 464.47715 1425 470 1425 Z" fill="white"/>
+        <path d="M 470 1425 L 749 1425 C 754.52285 1425 759 1429.4772 759 1435 L 759 1507.75 C 759 1513.2728 754.52285 1517.75 749 1517.75 L 470 1517.75 C 464.47715 1517.75 460 1513.2728 460 1507.75 L 460 1435 C 460 1429.4772 464.47715 1425 470 1425 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_162">
+        <path d="M 470 1213 L 749 1213 C 754.52285 1213 759 1217.4772 759 1223 L 759 1295.75 C 759 1301.2728 754.52285 1305.75 749 1305.75 L 470 1305.75 C 464.47715 1305.75 460 1301.2728 460 1295.75 L 460 1223 C 460 1217.4772 464.47715 1213 470 1213 Z" fill="white"/>
+        <path d="M 470 1213 L 749 1213 C 754.52285 1213 759 1217.4772 759 1223 L 759 1295.75 C 759 1301.2728 754.52285 1305.75 749 1305.75 L 470 1305.75 C 464.47715 1305.75 460 1301.2728 460 1295.75 L 460 1223 C 460 1217.4772 464.47715 1213 470 1213 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_115">
+        <g id="Graphic_117">
+          <path d="M 481 1115.5 L 749 1115.5 C 754.52285 1115.5 759 1119.9772 759 1125.5 L 759 1154.5 C 759 1160.0228 754.52285 1164.5 749 1164.5 L 481 1164.5 C 475.47715 1164.5 471 1160.0228 471 1154.5 L 471 1125.5 C 471 1119.9772 475.47715 1115.5 481 1115.5 Z" fill="white"/>
+          <text transform="translate(476 1129)" fill="#666">
+            <tspan font-family="PingFang TC" font-size="16" fill="#666" x="0" y="17">Qualify for Fee-Free and refund</tspan>
+          </text>
+        </g>
+        <g id="Graphic_116">
+          <path d="M 481 1151.5 L 738 1151.5 C 743.52285 1151.5 748 1155.9772 748 1161.5 L 748 1182.5 C 748 1188.0228 743.52285 1192.5 738 1192.5 L 481 1192.5 C 475.47715 1192.5 471 1188.0228 471 1182.5 L 471 1161.5 C 471 1155.9772 475.47715 1151.5 481 1151.5 Z" fill="white"/>
+          <text transform="translate(476 1156.5)" fill="#666">
+            <tspan font-family="PingFang TC" font-size="16" fill="#666" x="0" y="17">（explanation）</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_136">
+        <g id="Graphic_138">
+          <path d="M 481 1221.25 L 749 1221.25 C 754.52285 1221.25 759 1225.7272 759 1231.25 L 759 1260.25 C 759 1265.7728 754.52285 1270.25 749 1270.25 L 481 1270.25 C 475.47715 1270.25 471 1265.7728 471 1260.25 L 471 1231.25 C 471 1225.7272 475.47715 1221.25 481 1221.25 Z" fill="white"/>
+          <text transform="translate(476 1234.75)" fill="#666">
+            <tspan font-family="PingFang TC" font-size="16" fill="#666" x="0" y="17">English Version Certificate</tspan>
+          </text>
+        </g>
+        <g id="Graphic_137">
+          <path d="M 481 1257.25 L 738 1257.25 C 743.52285 1257.25 748 1261.7272 748 1267.25 L 748 1287.5 C 748 1293.0228 743.52285 1297.5 738 1297.5 L 481 1297.5 C 475.47715 1297.5 471 1293.0228 471 1287.5 L 471 1267.25 C 471 1261.7272 475.47715 1257.25 481 1257.25 Z" fill="white"/>
+          <text transform="translate(476 1262.25)" fill="#666">
+            <tspan font-family="PingFang TC" font-size="16" fill="#666" x="0" y="17">（explanation）</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_139">
+        <g id="Graphic_141">
+          <path d="M 481 1007.25 L 749 1007.25 C 754.52285 1007.25 759 1011.7272 759 1017.25 L 759 1046.25 C 759 1051.7728 754.52285 1056.25 749 1056.25 L 481 1056.25 C 475.47715 1056.25 471 1051.7728 471 1046.25 L 471 1017.25 C 471 1011.7272 475.47715 1007.25 481 1007.25 Z" fill="white"/>
+          <text transform="translate(476 1020.75)" fill="#666">
+            <tspan font-family="PingFang TC" font-size="16" fill="#666" x="0" y="17">Certificate Photocopy</tspan>
+          </text>
+        </g>
+        <g id="Graphic_140">
+          <path d="M 481 1043.25 L 738 1043.25 C 743.52285 1043.25 748 1047.7272 748 1053.25 L 748 1077.25 C 748 1082.7728 743.52285 1087.25 738 1087.25 L 481 1087.25 C 475.47715 1087.25 471 1082.7728 471 1077.25 L 471 1053.25 C 471 1047.7272 475.47715 1043.25 481 1043.25 Z" fill="white"/>
+          <text transform="translate(476 1048.25)" fill="#666">
+            <tspan font-family="PingFang TC" font-size="16" fill="#666" x="0" y="17">（explanation）</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_148">
+        <g id="Graphic_150">
+          <path d="M 481 1435 L 749 1435 C 754.52285 1435 759 1439.4772 759 1445 L 759 1474 C 759 1479.5228 754.52285 1484 749 1484 L 481 1484 C 475.47715 1484 471 1479.5228 471 1474 L 471 1445 C 471 1439.4772 475.47715 1435 481 1435 Z" fill="white"/>
+          <text transform="translate(476 1448.5)" fill="#666">
+            <tspan font-family="PingFang TC" font-size="16" fill="#666" x="0" y="17">Edit Certificate Basic Info </tspan>
+          </text>
+        </g>
+        <g id="Graphic_149">
+          <path d="M 481 1471 L 738 1471 C 743.52285 1471 748 1475.4772 748 1481 L 748 1501.25 C 748 1506.7728 743.52285 1511.25 738 1511.25 L 481 1511.25 C 475.47715 1511.25 471 1506.7728 471 1501.25 L 471 1481 C 471 1475.4772 475.47715 1471 481 1471 Z" fill="white"/>
+          <text transform="translate(476 1476)" fill="#666">
+            <tspan font-family="PingFang TC" font-size="16" fill="#666" x="0" y="17">（explanation）</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_151">
+        <path d="M 470 1319.75 L 749 1319.75 C 754.52285 1319.75 759 1324.2272 759 1329.75 L 759 1402.5 C 759 1408.0228 754.52285 1412.5 749 1412.5 L 470 1412.5 C 464.47715 1412.5 460 1408.0228 460 1402.5 L 460 1329.75 C 460 1324.2272 464.47715 1319.75 470 1319.75 Z" fill="white"/>
+        <path d="M 470 1319.75 L 749 1319.75 C 754.52285 1319.75 759 1324.2272 759 1329.75 L 759 1402.5 C 759 1408.0228 754.52285 1412.5 749 1412.5 L 470 1412.5 C 464.47715 1412.5 460 1408.0228 460 1402.5 L 460 1329.75 C 460 1324.2272 464.47715 1319.75 470 1319.75 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_152">
+        <g id="Graphic_154">
+          <path d="M 481 1332.25 L 749 1332.25 C 754.52285 1332.25 759 1336.7272 759 1342.25 L 759 1371.25 C 759 1376.7728 754.52285 1381.25 749 1381.25 L 481 1381.25 C 475.47715 1381.25 471 1376.7728 471 1371.25 L 471 1342.25 C 471 1336.7272 475.47715 1332.25 481 1332.25 Z" fill="white"/>
+          <text transform="translate(476 1345.75)" fill="#666">
+            <tspan font-family="PingFang TC" font-size="16" fill="#666" x="0" y="17">Reapply Certificate</tspan>
+          </text>
+        </g>
+        <g id="Graphic_153">
+          <path d="M 481 1368.25 L 738 1368.25 C 743.52285 1368.25 748 1372.7272 748 1378.25 L 748 1401 C 748 1406.5228 743.52285 1411 738 1411 L 481 1411 C 475.47715 1411 471 1406.5228 471 1401 L 471 1378.25 C 471 1372.7272 475.47715 1368.25 481 1368.25 Z" fill="white"/>
+          <text transform="translate(476 1373.25)" fill="#666">
+            <tspan font-family="PingFang TC" font-size="16" fill="#666" x="0" y="17">（explanation）</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_184">
+        <path d="M -1580 572 L -1301 572 C -1295.4772 572 -1291 576.47715 -1291 582 L -1291 610 C -1291 615.52285 -1295.4772 620 -1301 620 L -1580 620 C -1585.5228 620 -1590 615.52285 -1590 610 L -1590 582 C -1590 576.47715 -1585.5228 572 -1580 572 Z" fill="white"/>
+        <path d="M -1580 572 L -1301 572 C -1295.4772 572 -1291 576.47715 -1291 582 L -1291 610 C -1291 615.52285 -1295.4772 620 -1301 620 L -1580 620 C -1585.5228 620 -1590 615.52285 -1590 610 L -1590 582 C -1590 576.47715 -1585.5228 572 -1580 572 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1585 585)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="38.036" y="17">Search with Reapply number</tspan>
+        </text>
+      </g>
+      <g id="Graphic_185">
+        <path d="M -1580 684 L -1301 684 C -1295.4772 684 -1291 688.47715 -1291 694 L -1291 722 C -1291 727.52285 -1295.4772 732 -1301 732 L -1580 732 C -1585.5228 732 -1590 727.52285 -1590 722 L -1590 694 C -1590 688.47715 -1585.5228 684 -1580 684 Z" fill="white"/>
+        <path d="M -1580 684 L -1301 684 C -1295.4772 684 -1291 688.47715 -1291 694 L -1291 722 C -1291 727.52285 -1295.4772 732 -1301 732 L -1580 732 C -1585.5228 732 -1590 727.52285 -1590 722 L -1590 694 C -1590 688.47715 -1585.5228 684 -1580 684 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1585 697)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="28.516" y="17">Search with Certificate number</tspan>
+        </text>
+      </g>
+      <g id="Graphic_186">
+        <path d="M -1580 628 L -1301 628 C -1295.4772 628 -1291 632.47715 -1291 638 L -1291 666 C -1291 671.52285 -1295.4772 676 -1301 676 L -1580 676 C -1585.5228 676 -1590 671.52285 -1590 666 L -1590 638 C -1590 632.47715 -1585.5228 628 -1580 628 Z" fill="white"/>
+        <path d="M -1580 628 L -1301 628 C -1295.4772 628 -1291 632.47715 -1291 638 L -1291 666 C -1291 671.52285 -1295.4772 676 -1301 676 L -1580 676 C -1585.5228 676 -1590 671.52285 -1590 666 L -1590 638 C -1590 632.47715 -1585.5228 628 -1580 628 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1585 641)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="93.036" y="17">Search Result</tspan>
+        </text>
+      </g>
+      <g id="Graphic_191">
+        <path d="M -1580 818 L -1301 818 C -1295.4772 818 -1291 822.4772 -1291 828 L -1291 856 C -1291 861.5228 -1295.4772 866 -1301 866 L -1580 866 C -1585.5228 866 -1590 861.5228 -1590 856 L -1590 828 C -1590 822.4772 -1585.5228 818 -1580 818 Z" fill="white"/>
+        <path d="M -1580 818 L -1301 818 C -1295.4772 818 -1291 822.4772 -1291 828 L -1291 856 C -1291 861.5228 -1295.4772 866 -1301 866 L -1580 866 C -1585.5228 866 -1590 861.5228 -1590 856 L -1590 828 C -1590 822.4772 -1585.5228 818 -1580 818 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1585 831)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="64.228" y="17"> Pay with Credit Card</tspan>
+        </text>
+      </g>
+      <g id="Graphic_192">
+        <path d="M -1580 930 L -1301 930 C -1295.4772 930 -1291 934.4772 -1291 940 L -1291 968 C -1291 973.5228 -1295.4772 978 -1301 978 L -1580 978 C -1585.5228 978 -1590 973.5228 -1590 968 L -1590 940 C -1590 934.4772 -1585.5228 930 -1580 930 Z" fill="white"/>
+        <path d="M -1580 930 L -1301 930 C -1295.4772 930 -1291 934.4772 -1291 940 L -1291 968 C -1291 973.5228 -1295.4772 978 -1301 978 L -1580 978 C -1585.5228 978 -1590 973.5228 -1590 968 L -1590 940 C -1590 934.4772 -1585.5228 930 -1580 930 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1585 943)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="61.844" y="17">Edit Payment Account</tspan>
+        </text>
+      </g>
+      <g id="Graphic_193">
+        <path d="M -1580 874 L -1301 874 C -1295.4772 874 -1291 878.4772 -1291 884 L -1291 912 C -1291 917.5228 -1295.4772 922 -1301 922 L -1580 922 C -1585.5228 922 -1590 917.5228 -1590 912 L -1590 884 C -1590 878.4772 -1585.5228 874 -1580 874 Z" fill="white"/>
+        <path d="M -1580 874 L -1301 874 C -1295.4772 874 -1291 878.4772 -1291 884 L -1291 912 C -1291 917.5228 -1295.4772 922 -1301 922 L -1580 922 C -1585.5228 922 -1590 917.5228 -1590 912 L -1590 884 C -1590 878.4772 -1585.5228 874 -1580 874 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1585 887)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="57.116" y="17">Pay with e-Bill Website</tspan>
+        </text>
+      </g>
+      <g id="Graphic_195">
+        <path d="M -1580 986 L -1301 986 C -1295.4772 986 -1291 990.4772 -1291 996 L -1291 1024 C -1291 1029.5228 -1295.4772 1034 -1301 1034 L -1580 1034 C -1585.5228 1034 -1590 1029.5228 -1590 1024 L -1590 996 C -1590 990.4772 -1585.5228 986 -1580 986 Z" fill="white"/>
+        <path d="M -1580 986 L -1301 986 C -1295.4772 986 -1291 990.4772 -1291 996 L -1291 1024 C -1291 1029.5228 -1295.4772 1034 -1301 1034 L -1580 1034 C -1585.5228 1034 -1590 1029.5228 -1590 1024 L -1590 996 C -1590 990.4772 -1585.5228 986 -1580 986 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1585 999)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="48.404" y="17">Check the Payment Satus</tspan>
+        </text>
+      </g>
+      <g id="Graphic_196">
+        <path d="M -1580 1073 L -1301 1073 C -1295.4772 1073 -1291 1077.4772 -1291 1083 L -1291 1111 C -1291 1116.5228 -1295.4772 1121 -1301 1121 L -1580 1121 C -1585.5228 1121 -1590 1116.5228 -1590 1111 L -1590 1083 C -1590 1077.4772 -1585.5228 1073 -1580 1073 Z" fill="white"/>
+        <path d="M -1580 1073 L -1301 1073 C -1295.4772 1073 -1291 1077.4772 -1291 1083 L -1291 1111 C -1291 1116.5228 -1295.4772 1121 -1301 1121 L -1580 1121 C -1585.5228 1121 -1590 1116.5228 -1590 1111 L -1590 1083 C -1590 1077.4772 -1585.5228 1073 -1580 1073 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1585 1086)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="38.036" y="17">Search with Reapply number</tspan>
+        </text>
+      </g>
+      <g id="Graphic_197">
+        <path d="M -1580 1185 L -1301 1185 C -1295.4772 1185 -1291 1189.4772 -1291 1195 L -1291 1223 C -1291 1228.5228 -1295.4772 1233 -1301 1233 L -1580 1233 C -1585.5228 1233 -1590 1228.5228 -1590 1223 L -1590 1195 C -1590 1189.4772 -1585.5228 1185 -1580 1185 Z" fill="white"/>
+        <path d="M -1580 1185 L -1301 1185 C -1295.4772 1185 -1291 1189.4772 -1291 1195 L -1291 1223 C -1291 1228.5228 -1295.4772 1233 -1301 1233 L -1580 1233 C -1585.5228 1233 -1590 1228.5228 -1590 1223 L -1590 1195 C -1590 1189.4772 -1585.5228 1185 -1580 1185 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1585 1198)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="93.036" y="17">Search Result</tspan>
+        </text>
+      </g>
+      <g id="Graphic_198">
+        <path d="M -1580 1129 L -1301 1129 C -1295.4772 1129 -1291 1133.4772 -1291 1139 L -1291 1167 C -1291 1172.5228 -1295.4772 1177 -1301 1177 L -1580 1177 C -1585.5228 1177 -1590 1172.5228 -1590 1167 L -1590 1139 C -1590 1133.4772 -1585.5228 1129 -1580 1129 Z" fill="white"/>
+        <path d="M -1580 1129 L -1301 1129 C -1295.4772 1129 -1291 1133.4772 -1291 1139 L -1291 1167 C -1291 1172.5228 -1295.4772 1177 -1301 1177 L -1580 1177 C -1585.5228 1177 -1590 1172.5228 -1590 1167 L -1590 1139 C -1590 1133.4772 -1585.5228 1129 -1580 1129 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1585 1142)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="28.516" y="17">Search with Certificate number</tspan>
+        </text>
+      </g>
+      <g id="Graphic_203">
+        <path d="M -1576 1303 L -1297 1303 C -1291.4772 1303 -1287 1307.4772 -1287 1313 L -1287 1341 C -1287 1346.5228 -1291.4772 1351 -1297 1351 L -1576 1351 C -1581.5228 1351 -1586 1346.5228 -1586 1341 L -1586 1313 C -1586 1307.4772 -1581.5228 1303 -1576 1303 Z" fill="white"/>
+        <path d="M -1576 1303 L -1297 1303 C -1291.4772 1303 -1287 1307.4772 -1287 1313 L -1287 1341 C -1287 1346.5228 -1291.4772 1351 -1297 1351 L -1576 1351 C -1581.5228 1351 -1586 1346.5228 -1586 1341 L -1586 1313 C -1586 1307.4772 -1581.5228 1303 -1576 1303 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1581 1316)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="9.532" y="17">Login with Citizen Digital Certificate</tspan>
+        </text>
+      </g>
+      <g id="Graphic_204">
+        <path d="M -1576 1415 L -1297 1415 C -1291.4772 1415 -1287 1419.4772 -1287 1425 L -1287 1453 C -1287 1458.5228 -1291.4772 1463 -1297 1463 L -1576 1463 C -1581.5228 1463 -1586 1458.5228 -1586 1453 L -1586 1425 C -1586 1419.4772 -1581.5228 1415 -1576 1415 Z" fill="white"/>
+        <path d="M -1576 1415 L -1297 1415 C -1291.4772 1415 -1287 1419.4772 -1287 1425 L -1287 1453 C -1287 1458.5228 -1291.4772 1463 -1297 1463 L -1576 1463 C -1581.5228 1463 -1586 1458.5228 -1586 1453 L -1586 1425 C -1586 1419.4772 -1581.5228 1415 -1576 1415 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1581 1428)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="55.996" y="17">Search for Apply Status  </tspan>
+        </text>
+      </g>
+      <g id="Graphic_205">
+        <path d="M -1576 1359 L -1297 1359 C -1291.4772 1359 -1287 1363.4772 -1287 1369 L -1287 1397 C -1287 1402.5228 -1291.4772 1407 -1297 1407 L -1576 1407 C -1581.5228 1407 -1586 1402.5228 -1586 1397 L -1586 1369 C -1586 1363.4772 -1581.5228 1359 -1576 1359 Z" fill="white"/>
+        <path d="M -1576 1359 L -1297 1359 C -1291.4772 1359 -1287 1363.4772 -1287 1369 L -1287 1397 C -1287 1402.5228 -1291.4772 1407 -1297 1407 L -1576 1407 C -1581.5228 1407 -1586 1402.5228 -1586 1397 L -1586 1369 C -1586 1363.4772 -1581.5228 1359 -1576 1359 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-1581 1372)" fill="#666">
+          <tspan font-family="PingFang TC" font-size="16" fill="#666" x="44.308" y="17">Search for Payment Status</tspan>
+        </text>
+      </g>
+      <g id="Group_243">
+        <g id="Graphic_190">
+          <path d="M -1905 579 L -1626 579 C -1620.4772 579 -1616 583.47715 -1616 589 L -1616 767 C -1616 772.52285 -1620.4772 777 -1626 777 L -1905 777 C -1910.5228 777 -1915 772.52285 -1915 767 L -1915 589 C -1915 583.47715 -1910.5228 579 -1905 579 Z" fill="#666"/>
+          <path d="M -1905 579 L -1626 579 C -1620.4772 579 -1616 583.47715 -1616 589 L -1616 767 C -1616 772.52285 -1620.4772 777 -1626 777 L -1905 777 C -1910.5228 777 -1915 772.52285 -1915 767 L -1915 589 C -1915 583.47715 -1910.5228 579 -1905 579 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-1890 589)" fill="white">
+            <tspan font-family="PingFang TC" font-weight="bold" font-size="16" fill="white" x="0" y="83">Online Certificate Search</tspan>
+          </text>
+        </g>
+        <g id="Graphic_218">
+          <path d="M -1875 610 L -1856 610 C -1846.6112 610 -1839 617.61116 -1839 627 L -1839 627 C -1839 636.38884 -1846.6112 644 -1856 644 L -1875 644 C -1884.3888 644 -1892 636.38884 -1892 627 L -1892 627 C -1892 617.61116 -1884.3888 610 -1875 610 Z" fill="#ff8080"/>
+          <text transform="translate(-1887 618.5)" fill="#ededed">
+            <tspan font-family="PingFang TC" font-size="12" fill="#ededed" x="13.82" y="13">2.1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_240">
+        <g id="Graphic_220">
+          <path d="M -1905 818 L -1626 818 C -1620.4772 818 -1616 822.4772 -1616 828 L -1616 1006 C -1616 1011.5228 -1620.4772 1016 -1626 1016 L -1905 1016 C -1910.5228 1016 -1915 1011.5228 -1915 1006 L -1915 828 C -1915 822.4772 -1910.5228 818 -1905 818 Z" fill="#666"/>
+          <path d="M -1905 818 L -1626 818 C -1620.4772 818 -1616 822.4772 -1616 828 L -1616 1006 C -1616 1011.5228 -1620.4772 1016 -1626 1016 L -1905 1016 C -1910.5228 1016 -1915 1011.5228 -1915 1006 L -1915 828 C -1915 822.4772 -1910.5228 818 -1905 818 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-1895 828)" fill="white">
+            <tspan font-family="PingFang TC" font-size="16" fill="#f7f7f7" x="0" y="83">Qualified Examinee Fee Payment</tspan>
+          </text>
+        </g>
+        <g id="Graphic_222">
+          <path d="M -1877 852.5 L -1858 852.5 C -1848.6112 852.5 -1841 860.1112 -1841 869.5 L -1841 869.5 C -1841 878.8888 -1848.6112 886.5 -1858 886.5 L -1877 886.5 C -1886.3888 886.5 -1894 878.8888 -1894 869.5 L -1894 869.5 C -1894 860.1112 -1886.3888 852.5 -1877 852.5 Z" fill="#ff8080"/>
+          <text transform="translate(-1889 861)" fill="#ededed">
+            <tspan font-family="PingFang TC" font-size="12" fill="#ededed" x="13.82" y="13">3.1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Graphic_231">
+        <path d="M -2247 579 L -1968 579 C -1962.4772 579 -1958 583.47715 -1958 589 L -1958 890 C -1958 895.5228 -1962.4772 900 -1968 900 L -2247 900 C -2252.5228 900 -2257 895.5228 -2257 890 L -2257 589 C -2257 583.47715 -2252.5228 579 -2247 579 Z" fill="#666"/>
+        <path d="M -2247 579 L -1968 579 C -1962.4772 579 -1958 583.47715 -1958 589 L -1958 890 C -1958 895.5228 -1962.4772 900 -1968 900 L -2247 900 C -2252.5228 900 -2257 895.5228 -2257 890 L -2257 589 C -2257 583.47715 -2252.5228 579 -2247 579 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-2232 589)" fill="white">
+          <tspan font-family="PingFang TC" font-weight="bold" font-size="16" fill="white" x="0" y="83">Home- Certificate of National </tspan>
+          <tspan font-family="PingFang TC" font-weight="bold" font-size="16" fill="white" x="0" y="105">Examination Service (MyCert)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_232">
+        <path d="M -2217 613 L -2185.5 613 C -2176.1112 613 -2168.5 620.61116 -2168.5 630 L -2168.5 630 C -2168.5 639.38884 -2176.1112 647 -2185.5 647 L -2217 647 C -2226.3888 647 -2234 639.38884 -2234 630 L -2234 630 C -2234 620.61116 -2226.3888 613 -2217 613 Z" fill="#ff8080"/>
+        <text transform="translate(-2229 621.5)" fill="#ededed">
+          <tspan font-family="PingFang TC" font-size="12" fill="#ededed" x="21.222" y="13">1.1</tspan>
+        </text>
+      </g>
+      <g id="Group_241">
+        <g id="Graphic_224">
+          <path d="M -1905 1073 L -1626 1073 C -1620.4772 1073 -1616 1077.4772 -1616 1083 L -1616 1261 C -1616 1266.5228 -1620.4772 1271 -1626 1271 L -1905 1271 C -1910.5228 1271 -1915 1266.5228 -1915 1261 L -1915 1083 C -1915 1077.4772 -1910.5228 1073 -1905 1073 Z" fill="#666"/>
+          <path d="M -1905 1073 L -1626 1073 C -1620.4772 1073 -1616 1077.4772 -1616 1083 L -1616 1261 C -1616 1266.5228 -1620.4772 1271 -1626 1271 L -1905 1271 C -1910.5228 1271 -1915 1266.5228 -1915 1261 L -1915 1083 C -1915 1077.4772 -1910.5228 1073 -1905 1073 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-1895 1083)" fill="white">
+            <tspan font-family="PingFang TC" font-size="16" fill="#f7f7f7" x="0" y="83">Online Certificate Search</tspan>
+          </text>
+        </g>
+        <g id="Graphic_233">
+          <path d="M -1877 1107.5 L -1858 1107.5 C -1848.6112 1107.5 -1841 1115.1112 -1841 1124.5 L -1841 1124.5 C -1841 1133.8888 -1848.6112 1141.5 -1858 1141.5 L -1877 1141.5 C -1886.3888 1141.5 -1894 1133.8888 -1894 1124.5 L -1894 1124.5 C -1894 1115.1112 -1886.3888 1107.5 -1877 1107.5 Z" fill="#ff8080"/>
+          <text transform="translate(-1889 1116)" fill="#ededed">
+            <tspan font-family="PingFang TC" font-size="12" fill="#ededed" x="13.82" y="13">4.1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_242">
+        <g id="Graphic_225">
+          <path d="M -1905 1303 L -1626 1303 C -1620.4772 1303 -1616 1307.4772 -1616 1313 L -1616 1491 C -1616 1496.5228 -1620.4772 1501 -1626 1501 L -1905 1501 C -1910.5228 1501 -1915 1496.5228 -1915 1491 L -1915 1313 C -1915 1307.4772 -1910.5228 1303 -1905 1303 Z" fill="#666"/>
+          <path d="M -1905 1303 L -1626 1303 C -1620.4772 1303 -1616 1307.4772 -1616 1313 L -1616 1491 C -1616 1496.5228 -1620.4772 1501 -1626 1501 L -1905 1501 C -1910.5228 1501 -1915 1496.5228 -1915 1491 L -1915 1313 C -1915 1307.4772 -1910.5228 1303 -1905 1303 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-1895 1313)" fill="white">
+            <tspan font-family="PingFang TC" font-size="16" fill="#f7f7f7" x="0" y="83">Online Certificate Apply and </tspan>
+            <tspan font-family="PingFang TC" font-size="16" fill="#f7f7f7" x="0" y="105">Payment</tspan>
+          </text>
+        </g>
+        <g id="Graphic_234">
+          <path d="M -1883 1337.5 L -1864 1337.5 C -1854.6112 1337.5 -1847 1345.1112 -1847 1354.5 L -1847 1354.5 C -1847 1363.8888 -1854.6112 1371.5 -1864 1371.5 L -1883 1371.5 C -1892.3888 1371.5 -1900 1363.8888 -1900 1354.5 L -1900 1354.5 C -1900 1345.1112 -1892.3888 1337.5 -1883 1337.5 Z" fill="#ff8080"/>
+          <text transform="translate(-1895 1346)" fill="#ededed">
+            <tspan font-family="PingFang TC" font-size="12" fill="#ededed" x="13.82" y="13">5.1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_244">
+        <g id="Graphic_226">
+          <path d="M -1914.5 1697.5 L -1635.5 1697.5 C -1629.9772 1697.5 -1625.5 1701.9772 -1625.5 1707.5 L -1625.5 1814.94 C -1625.5 1820.4628 -1629.9772 1824.94 -1635.5 1824.94 L -1914.5 1824.94 C -1920.0228 1824.94 -1924.5 1820.4628 -1924.5 1814.94 L -1924.5 1707.5 C -1924.5 1701.9772 -1920.0228 1697.5 -1914.5 1697.5 Z" fill="#666"/>
+          <path d="M -1914.5 1697.5 L -1635.5 1697.5 C -1629.9772 1697.5 -1625.5 1701.9772 -1625.5 1707.5 L -1625.5 1814.94 C -1625.5 1820.4628 -1629.9772 1824.94 -1635.5 1824.94 L -1914.5 1824.94 C -1920.0228 1824.94 -1924.5 1820.4628 -1924.5 1814.94 L -1924.5 1707.5 C -1924.5 1701.9772 -1920.0228 1697.5 -1914.5 1697.5 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-1904.5 1707.5)" fill="white">
+            <tspan font-family="PingFang TC" font-size="16" fill="#f7f7f7" x="0" y="83">Certificate Photocopy</tspan>
+          </text>
+        </g>
+        <g id="Graphic_235">
+          <path d="M -1890.5 1732 L -1871.5 1732 C -1862.1112 1732 -1854.5 1739.6112 -1854.5 1749 L -1854.5 1749 C -1854.5 1758.3888 -1862.1112 1766 -1871.5 1766 L -1890.5 1766 C -1899.8888 1766 -1907.5 1758.3888 -1907.5 1749 L -1907.5 1749 C -1907.5 1739.6112 -1899.8888 1732 -1890.5 1732 Z" fill="#ff8080"/>
+          <text transform="translate(-1902.5 1740.5)" fill="#ededed">
+            <tspan font-family="PingFang TC" font-size="12" fill="#ededed" x="13.82" y="13">6.1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_245">
+        <g id="Graphic_227">
+          <path d="M -1914.5 1842.9618 L -1635.5 1842.9618 C -1629.9772 1842.9618 -1625.5 1847.439 -1625.5 1852.9618 L -1625.5 1960.4018 C -1625.5 1965.9247 -1629.9772 1970.4018 -1635.5 1970.4018 L -1914.5 1970.4018 C -1920.0228 1970.4018 -1924.5 1965.9247 -1924.5 1960.4018 L -1924.5 1852.9618 C -1924.5 1847.439 -1920.0228 1842.9618 -1914.5 1842.9618 Z" fill="#666"/>
+          <path d="M -1914.5 1842.9618 L -1635.5 1842.9618 C -1629.9772 1842.9618 -1625.5 1847.439 -1625.5 1852.9618 L -1625.5 1960.4018 C -1625.5 1965.9247 -1629.9772 1970.4018 -1635.5 1970.4018 L -1914.5 1970.4018 C -1920.0228 1970.4018 -1924.5 1965.9247 -1924.5 1960.4018 L -1924.5 1852.9618 C -1924.5 1847.439 -1920.0228 1842.9618 -1914.5 1842.9618 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-1904.5 1852.9618)" fill="white">
+            <tspan font-family="PingFang TC" font-size="16" fill="#f7f7f7" x="0" y="83">Qualify for Fee-Free and refund</tspan>
+          </text>
+        </g>
+        <g id="Graphic_236">
+          <path d="M -1890.5 1878.5 L -1871.5 1878.5 C -1862.1112 1878.5 -1854.5 1886.1112 -1854.5 1895.5 L -1854.5 1895.5 C -1854.5 1904.8888 -1862.1112 1912.5 -1871.5 1912.5 L -1890.5 1912.5 C -1899.8888 1912.5 -1907.5 1904.8888 -1907.5 1895.5 L -1907.5 1895.5 C -1907.5 1886.1112 -1899.8888 1878.5 -1890.5 1878.5 Z" fill="#ff8080"/>
+          <text transform="translate(-1902.5 1887)" fill="#ededed">
+            <tspan font-family="PingFang TC" font-size="12" fill="#ededed" x="14.114" y="13">7.1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_246">
+        <g id="Graphic_229">
+          <path d="M -1914.5 1985.849 L -1635.5 1985.849 C -1629.9772 1985.849 -1625.5 1990.3262 -1625.5 1995.849 L -1625.5 2103.289 C -1625.5 2108.812 -1629.9772 2113.289 -1635.5 2113.289 L -1914.5 2113.289 C -1920.0228 2113.289 -1924.5 2108.812 -1924.5 2103.289 L -1924.5 1995.849 C -1924.5 1990.3262 -1920.0228 1985.849 -1914.5 1985.849 Z" fill="#666"/>
+          <path d="M -1914.5 1985.849 L -1635.5 1985.849 C -1629.9772 1985.849 -1625.5 1990.3262 -1625.5 1995.849 L -1625.5 2103.289 C -1625.5 2108.812 -1629.9772 2113.289 -1635.5 2113.289 L -1914.5 2113.289 C -1920.0228 2113.289 -1924.5 2108.812 -1924.5 2103.289 L -1924.5 1995.849 C -1924.5 1990.3262 -1920.0228 1985.849 -1914.5 1985.849 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-1904.5 1995.849)" fill="white">
+            <tspan font-family="PingFang TC" font-size="16" fill="#f7f7f7" x="0" y="83">Reapply Certificate</tspan>
+          </text>
+        </g>
+        <g id="Graphic_237">
+          <path d="M -1886.5 2025 L -1867.5 2025 C -1858.1112 2025 -1850.5 2032.6112 -1850.5 2042 L -1850.5 2042 C -1850.5 2051.3888 -1858.1112 2059 -1867.5 2059 L -1886.5 2059 C -1895.8888 2059 -1903.5 2051.3888 -1903.5 2042 L -1903.5 2042 C -1903.5 2032.6112 -1895.8888 2025 -1886.5 2025 Z" fill="#ff8080"/>
+          <text transform="translate(-1898.5 2033.5)" fill="#ededed">
+            <tspan font-family="PingFang TC" font-size="12" fill="#ededed" x="13.82" y="13">8.1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_248">
+        <g id="Graphic_228">
+          <path d="M -1914.5 2125.5182 L -1635.5 2125.5182 C -1629.9772 2125.5182 -1625.5 2129.9953 -1625.5 2135.5182 L -1625.5 2242.9582 C -1625.5 2248.481 -1629.9772 2252.9582 -1635.5 2252.9582 L -1914.5 2252.9582 C -1920.0228 2252.9582 -1924.5 2248.481 -1924.5 2242.9582 L -1924.5 2135.5182 C -1924.5 2129.9953 -1920.0228 2125.5182 -1914.5 2125.5182 Z" fill="#666"/>
+          <path d="M -1914.5 2125.5182 L -1635.5 2125.5182 C -1629.9772 2125.5182 -1625.5 2129.9953 -1625.5 2135.5182 L -1625.5 2242.9582 C -1625.5 2248.481 -1629.9772 2252.9582 -1635.5 2252.9582 L -1914.5 2252.9582 C -1920.0228 2252.9582 -1924.5 2248.481 -1924.5 2242.9582 L -1924.5 2135.5182 C -1924.5 2129.9953 -1920.0228 2125.5182 -1914.5 2125.5182 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-1904.5 2135.5182)" fill="white">
+            <tspan font-family="PingFang TC" font-size="16" fill="#f7f7f7" x="0" y="83">English Version Certificate</tspan>
+          </text>
+        </g>
+        <g id="Graphic_238">
+          <path d="M -1886.5 2160.5 L -1867.5 2160.5 C -1858.1112 2160.5 -1850.5 2168.1112 -1850.5 2177.5 L -1850.5 2177.5 C -1850.5 2186.8888 -1858.1112 2194.5 -1867.5 2194.5 L -1886.5 2194.5 C -1895.8888 2194.5 -1903.5 2186.8888 -1903.5 2177.5 L -1903.5 2177.5 C -1903.5 2168.1112 -1895.8888 2160.5 -1886.5 2160.5 Z" fill="#ff8080"/>
+          <text transform="translate(-1898.5 2169)" fill="#ededed">
+            <tspan font-family="PingFang TC" font-size="12" fill="#ededed" x="13.82" y="13">9.1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_249">
+        <g id="Graphic_230">
+          <path d="M -1914.5 2278.06 L -1635.5 2278.06 C -1629.9772 2278.06 -1625.5 2282.5372 -1625.5 2288.06 L -1625.5 2395.5 C -1625.5 2401.0228 -1629.9772 2405.5 -1635.5 2405.5 L -1914.5 2405.5 C -1920.0228 2405.5 -1924.5 2401.0228 -1924.5 2395.5 L -1924.5 2288.06 C -1924.5 2282.5372 -1920.0228 2278.06 -1914.5 2278.06 Z" fill="#666"/>
+          <path d="M -1914.5 2278.06 L -1635.5 2278.06 C -1629.9772 2278.06 -1625.5 2282.5372 -1625.5 2288.06 L -1625.5 2395.5 C -1625.5 2401.0228 -1629.9772 2405.5 -1635.5 2405.5 L -1914.5 2405.5 C -1920.0228 2405.5 -1924.5 2401.0228 -1924.5 2395.5 L -1924.5 2288.06 C -1924.5 2282.5372 -1920.0228 2278.06 -1914.5 2278.06 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-1904.5 2288.06)" fill="white">
+            <tspan font-family="PingFang TC" font-size="16" fill="#f7f7f7" x="0" y="83">Edit Certificate Basic Info</tspan>
+          </text>
+        </g>
+        <g id="Graphic_239">
+          <path d="M -1886.5 2311.5 L -1867.5 2311.5 C -1858.1112 2311.5 -1850.5 2319.1112 -1850.5 2328.5 L -1850.5 2328.5 C -1850.5 2337.8888 -1858.1112 2345.5 -1867.5 2345.5 L -1886.5 2345.5 C -1895.8888 2345.5 -1903.5 2337.8888 -1903.5 2328.5 L -1903.5 2328.5 C -1903.5 2319.1112 -1895.8888 2311.5 -1886.5 2311.5 Z" fill="#ff8080"/>
+          <text transform="translate(-1898.5 2320)" fill="#ededed">
+            <tspan font-family="PingFang TC" font-size="12" fill="#ededed" x="11.372" y="13">10.1</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_251">
+        <path d="M -1951.5 739.5 L -1936.5 739.5 L -1936.5 678 L -1924.9 678" marker-end="url(#FilledArrow_Marker)" marker-start="url(#Ball_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_252">
+        <path d="M -1951.5 739.5 L -1936.5 739.5 L -1936.5 917 L -1924.9 917" marker-end="url(#FilledArrow_Marker)" marker-start="url(#Ball_Marker)" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_261">
+        <path d="M -2107.5 908.2 L -2107.5 1172.6293 L -1938.8672 1172.6293 L -1938.8672 1172 L -1927.9 1172" marker-end="url(#FilledArrow_Marker_2)" marker-start="url(#Ball_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16.0,10.0" stroke-width="2"/>
+      </g>
+      <g id="Line_262">
+        <path d="M -2107.5 908.2 L -2107.5 1402.896 L -1941.1436 1402.896 L -1941.1436 1402 L -1927.9 1402" marker-end="url(#FilledArrow_Marker_2)" marker-start="url(#Ball_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16.0,10.0" stroke-width="2"/>
+      </g>
+      <g id="Line_263">
+        <path d="M -2107.5 908.2 L -2107.5 1763.014 L -1965.5547 1763.014 L -1965.5547 1761.22 L -1937.4 1761.22" marker-end="url(#FilledArrow_Marker_2)" marker-start="url(#Ball_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16.0,10.0" stroke-width="2"/>
+      </g>
+      <g id="Line_264">
+        <path d="M -2107.5 908.2 L -2107.5 1907.754 L -1941.1002 1907.754 L -1941.1002 1906.6818 L -1937.4 1906.6818" marker-end="url(#FilledArrow_Marker_2)" marker-start="url(#Ball_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16.0,10.0" stroke-width="2"/>
+      </g>
+      <g id="Line_265">
+        <path d="M -2107.5 908.2 L -2107.5 2051.632 L -1937.234 2051.632" marker-end="url(#FilledArrow_Marker_2)" marker-start="url(#Ball_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16.0,10.0" stroke-width="2"/>
+      </g>
+      <g id="Line_267">
+        <path d="M -2107.5 908.2 L -2107.5 2186.3707 L -1942.885 2186.3707 L -1942.885 2189.2382 L -1937.4 2189.2382" marker-end="url(#FilledArrow_Marker_2)" marker-start="url(#Ball_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16.0,10.0" stroke-width="2"/>
+      </g>
+      <g id="Line_268">
+        <path d="M -2107.5 908.2 L -2107.5 2341.3006 L -2001.2228 2341.3006 L -1943.4 2341.78 L -1937.4 2341.78" marker-end="url(#FilledArrow_Marker_2)" marker-start="url(#Ball_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16.0,10.0" stroke-width="2"/>
+      </g>
+      <g id="Graphic_270">
+        <text transform="translate(-1935 1633.711)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="22" fill="black" x="3.058" y="21">Q &amp; A Feature </tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
